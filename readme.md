@@ -1,4 +1,4 @@
-![Logo-nav](https://user-images.githubusercontent.com/109285740/201354750-c098534a-b593-47ac-b2aa-e0e7432dd58d.png)
+![Logo-nav](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
 
 
 # Kalvium Lab | Superwars Stage 4
@@ -60,6 +60,6 @@ To begin the war there should be players, we can generate players by creating an
 
 ## Expected Output
 
-![Superwars](doc/superwars-oops.png)
+![Superwars](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/superwars-oops.png)
 
 Happy Coding Kalvium ❤️
