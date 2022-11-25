@@ -11,6 +11,17 @@ Lucus always loves protagonists like most of us. But Dustin is quite crazy, he l
 
 Okay, let us explain. They are going to facilitate the ultimate war between Super Heroes and Super Villains. As they are new to these technologies, they need a **you** to help them build this game.
 
+### How to approach a lab:
+
+Before starting have a look through the link below - to get an idea as how to approach the lab.
+
+[How to approach a lab](https://docs.google.com/document/d/1SZ2Pryj6kAJj63wdB2_xVJgQHq6GddeZQ3nqDXYeaBA/edit?usp=sharing)
+
+Along with a test page, you will also have a webpage -- which will display all your frontend work.
+
+You can toggle between the webpage and testpage - by clicking on the respective buttons.
+
+
 ## Starter code
 
 The `src/app.js` contains an array of 20 Super Heroes and Super-Villains. We are talking about the array of 20 _strings_ containing each Super Heroes and Super-Villains names. Here is one example of how the data is displayed:
@@ -20,10 +31,6 @@ The `src/app.js` contains an array of 20 Super Heroes and Super-Villains. We are
     "Spiderman"
 ]
 ```
-
-### Tests
-
-Open the `SpecRunner.html` file on your browser and start coding to pass the test. Remember to focus on one test at a time and read carefully the instructions to understand what you have to do.
 
 ### Progression 1: Rethink and reuse
 
@@ -57,6 +64,8 @@ Dustin and Lucus want to display the players. So help them by creating a method 
 ### Progression 3: The Superwar
 
 To begin the war there should be players, we can generate players by creating an object for the class `Superwars`, which should use `map` array method to loop through passed constant and _return `Player` Objects_. 
+
+**NOTE:** Once you are done with Progression 3 -> you can uncomment "window.onload" section (last 3 lines of the file) - to see the output on the webpage. Keep in mind that if you uncomment it before defining superwars correctly, your test page won't load.
 
 ## Expected Output
 
